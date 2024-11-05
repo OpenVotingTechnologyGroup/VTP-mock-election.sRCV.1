@@ -1,0 +1,37 @@
+{
+    "contestCVR": {
+        "cast_branch": "CVRs/0000/1eb1908b88",
+        "choices": [
+            {
+                "name": "Ann A",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Bob B",
+                "party": "Dyad Party"
+            },
+            {
+                "name": "Cindy C",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Derek D",
+                "party": "Square Party"
+            }
+        ],
+        "contest_name": "School Board",
+        "contest_type": "candidate",
+        "election_upstream_remote": "https://github.com/OpenVotingTechnologyGroup/",
+        "ggo": "GGOs/states/Massachusetts/GGOs/towns/Concord",
+        "max_selections": 4,
+        "open_positions": "1",
+        "selection": [
+            "Derek D",
+            "Ann A",
+            "Cindy C",
+            "Bob B"
+        ],
+        "tally": "rcv",
+        "uid": "0000"
+    }
+}
