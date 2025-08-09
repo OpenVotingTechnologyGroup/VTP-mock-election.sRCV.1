@@ -1,0 +1,7 @@
+---
+unique-ballots:
+- addresses:
+  - .*
+  ggos:
+  - GGOs/states/Massachusetts
+  - GGOs/states/Massachusetts/GGOs/towns/Concord

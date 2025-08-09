@@ -1,0 +1,25 @@
+---
+contests:
+  - contest_name: School Board
+    contest_type: candidate
+    max_selections: 3
+    tally: rcv-s
+    choices:
+    - name: Anthony Alpha
+      party: Circle Party
+    - name: Betty Beta
+      party: Dyad Party
+    - name: Gloria Gamma
+      party: Triangle Party
+    - name: David Delta
+      party: Square Party
+    - name: Emily Echo
+      party: Pentagon Party
+    - name: Francis Foxtrot
+      party: Hexagon Party
+GGOs:
+voting centers:
+- Concord Carlisle High School:
+    street: 500 Walden St, Concord, MA 01742
+    id: 000001
+submodules: []
