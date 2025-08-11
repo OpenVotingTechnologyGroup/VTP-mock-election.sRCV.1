@@ -37,7 +37,7 @@
             ],
             "contest_name": "School Board",
             "contest_type": "candidate",
-            "election_upstream_remote": "https://github.com/TrustTheVote-Project/",
+            "election_upstream_remote": "https://github.com/OpenVotingTechnologyGroup/",
             "ggo": "GGOs/states/Massachusetts/GGOs/towns/Concord",
             "max_selections": "3",
             "selection": [],
