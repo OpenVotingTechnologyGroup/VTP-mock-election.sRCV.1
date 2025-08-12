@@ -3,7 +3,7 @@ contests:
   - contest_name: School Board
     contest_type: candidate
     max_selections: 3
-    tally: rcv-s
+    tally: rcv
     choices:
     - name: Anthony Alpha
       party: Circle Party

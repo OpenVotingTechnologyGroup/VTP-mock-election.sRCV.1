@@ -41,7 +41,7 @@
             "ggo": "GGOs/states/Massachusetts/GGOs/towns/Concord",
             "max_selections": "3",
             "selection": [],
-            "tally": "rcv-s",
+            "tally": "rcv",
             "uid": "0000",
             "win_by": "0.5"
         }
