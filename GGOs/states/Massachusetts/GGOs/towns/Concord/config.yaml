@@ -2,7 +2,20 @@
 contests:
   - contest_name: School Board
     contest_type: candidate
-    max_selections: 3
+    open_positions: 1
+    tally: rcv
+    choices:
+    - name: Ann A
+      party: Circle Party
+    - name: Bob B
+      party: Dyad Party
+    - name: Cindy C
+      party: Triangle Party
+    - name: Derek D
+      party: Square Party
+  - contest_name: Select Board
+    contest_type: candidate
+    open_positions: 3
     tally: rcv
     choices:
     - name: Anthony Alpha
